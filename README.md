@@ -37,6 +37,8 @@ The dataset contains country-level indicators including:
 - Job Displacement (Million)
 - AI Readiness Score
 
+**Link:** https://www.kaggle.com/datasets/emirhanakku/ai-workforce-and-automation-dataset-20152025 
+
 > **Note:** This project uses a publicly available Kaggle dataset for portfolio and analytical purposes. The findings describe patterns observed in the dataset and should not be interpreted as causal conclusions.
 
 ---
